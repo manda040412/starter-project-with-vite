@@ -123,3 +123,18 @@ if (!routeFound) {
     </div>
   `;
 }
+
+<!-- Beranda -->
+<a href="https://manda040412.github.io/starter-project-with-vite/#/">Beranda</a>
+
+<!-- Login -->
+<a href="https://manda040412.github.io/starter-project-with-vite/#/login">Login</a>
+
+<!-- Register -->
+<a href="https://manda040412.github.io/starter-project-with-vite/#/register">Register</a>
+
+<!-- Tambah Story -->
+<a href="https://manda040412.github.io/starter-project-with-vite/#/create-story">Tambah Story</a>
+
+<!-- Story Offline -->
+<a href="https://manda040412.github.io/starter-project-with-vite/#/offline-stories">Story Offline</a>
